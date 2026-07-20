@@ -1,1 +1,2 @@
-# Learning-With-C
+# Learning-C
+Learning C
